@@ -1,7 +1,4 @@
 # 「遺伝子発現DB・解析ツールの紹介」　担当：仲里 猛留
-<hr class="full_hr" />
-<p><a href="http://MotDB.DBCLS.jp/?AJACS34" title="AJACS34 (819d)">AJACSみちのく2</a> &gt; 「遺伝子発現DB・解析ツールの紹介」</p>
-<hr class="full_hr" />
 <h3 id="content_1_0"><a id="ce386daf" href="http://MotDB.DBCLS.jp/?AJACS34%2Fthecla#ce386daf" title="ce386daf"><span class="sanchor">_</span></a> はじめに  </h3>
 
 <h3 id="content_1_1"><a id="q72af457" href="http://MotDB.DBCLS.jp/?AJACS34%2Fthecla#q72af457" title="q72af457">_</a> 今回のメニュー  </h3>
@@ -169,7 +166,9 @@
 
 <h3 id="content_1_15"><a id="c7d295ac" href="http://MotDB.DBCLS.jp/?AJACS34%2Fthecla#c7d295ac" title="c7d295ac"><span class="sanchor">_</span></a> <a href="http://david.abcc.ncifcrf.gov/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">DAVID: The Database for Annotation, Visualization and Integrated Discovery</span></a>  </h3>
 <p><span style="color:green">マイクロアレイデータの生物学的な解釈</span></p>
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS34%2Fthecla&amp;openfile=microarray.analysis.005.png" title="microarray.analysis.005.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS34%2Fthecla&amp;src=microarray.analysis.005.png" alt="microarray.analysis.005.png" title="microarray.analysis.005.png" width="410" height="242" /></a></div>
+
+![](microarray.analysis.005.png)
+
 
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>上で述べたマイクロアレイの結果の解析は、統計解析で、それらの遺伝子が生物学的にどういう意味を持つかわかりません。</li>
 <li>そこで、Gene Ontologyの用語を付与することで、生物学的な解釈を行います。</li>
@@ -189,7 +188,8 @@
 <a name="plugin_fold_anchor1"></a>
 <div class="plugin_fold_title_plus" onclick="return plugin_fold_onclick(this,event,'plugin_fold_anchor1')"><p>結果</p>
 </div>
-<div class="plugin_fold_body"><div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS34%2Fthecla&amp;openfile=david.ajacs31.png" title="david.ajacs31.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS34%2Fthecla&amp;src=david.ajacs31.png" alt="david.ajacs31.png" title="david.ajacs31.png" width="1025" height="966" /></a></div>
+
+![](david.ajacs31.png)
 
 </div></li>
 <li>[応用編] Pathways &gt; KEGG_PATHWAY や Tissue Expression &gt; UP_TISSUE なども見てみよう。生物学的にどういうことが言えるだろうか。</li></ul>
@@ -211,7 +211,8 @@
 <li><a href="http://ja.wikipedia.org/wiki/DNA%E3%82%B7%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0#.E6.A4.9C.E5.87.BA" rel="nofollow">DNAシークエンシング - Wikipedia -- 検出</a>も参照</li></ul></li></ul>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>00年代
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>キャピラリ
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS34%2Fthecla&amp;openfile=capillary.jpg" title="capillary.jpg"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS34%2Fthecla&amp;src=capillary.jpg" alt="capillary.jpg" title="capillary.jpg" width="600" height="489" /></a></div>
+
+![](capillary.jpg)
 
 <a href="http://www.appliedbiosystems.jp/website/jp/product/modelpage.jsp?MODELCD=50768&amp;MODELPGCD=66447" rel="nofollow">ABI PRISM&#174; 3100-Avant Genetic Analyzerより</a></li></ul></li></ul>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>10年代
@@ -273,7 +274,9 @@
 <li>画面右の Navigation にあるFASTQやSRALiteからデータがダウンロード可能</li></ul></li>
 <li>DDBJにあるドキュメント見てみる
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>データ構造（StudyとかExpとかRunとか）
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS34%2Fthecla&amp;openfile=dra.meta.halfsize.png" title="dra.meta.halfsize.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS34%2Fthecla&amp;src=dra.meta.halfsize.png" alt="dra.meta.halfsize.png" title="dra.meta.halfsize.png" width="514" height="568" /></a></div>
+
+![](dra.meta.halfsize.png)
+
 
 <a href="http://trace.ddbj.nig.ac.jp/dra/documentation.shtml" rel="nofollow">DDBJ Sequence Read Archive - Document - Metadata</a>より</li>
 <li>実データ
